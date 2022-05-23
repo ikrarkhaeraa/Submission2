@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MySubmissionTwo</string>
+    <string name="profile_name">Nama User</string>
+    <string name="profile_username">Username</string>
+    <string name="company">Company</string>
+    <string name="RepoTitle">Repository</string>
+    <string name="tv_repo">repo</string>
+    <string name="FollowersTitle">Followers</string>
+    <string name="tv_followers">followers</string>
+    <string name="FollowingTitle">Following</string>
+    <string name="tv_following">following</string>
+    <string name="LocationTitle">Location</string>
+    <string name="tv_location">location</string>
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Input Word</string>
+    <string name="kosong_kosong">Search First</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+
+</resources>
